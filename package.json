@@ -1,6 +1,6 @@
 {
-  "name": "debugger-for-edge",
-  "displayName": "Debugger for Edge",
+  "name": "mrcrane-test",
+  "displayName": "mrcrane test",
   "version": "1.0.1",
   "icon": "images/icon.png",
   "description": "%extension.description%",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-edge-debug2"
+    "url": "https://github.com/mrcrane/vscode-edge-debug2"
   },
-  "publisher": "msjsdiag",
-  "bugs": "https://github.com/microsoft/vscode-edge-debug2/issues",
+  "publisher": "mrcrane",
+  "bugs": "https://github.com/mrcrane/vscode-edge-debug2/issues",
   "engines": {
     "vscode": "^1.17.0"
   },
