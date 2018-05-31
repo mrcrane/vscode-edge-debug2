@@ -1,7 +1,7 @@
 {
   "name": "mrcrane-test",
   "displayName": "mrcrane test",
-  "version": "1.0.1.100",
+  "version": "1.0.2",
   "icon": "images/icon.png",
   "description": "%extension.description%",
   "author": {
